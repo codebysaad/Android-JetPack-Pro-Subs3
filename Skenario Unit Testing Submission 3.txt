@@ -1,0 +1,82 @@
+              ----------ANDROID TEST------------
+1. DetailMovieActivityTest
+Memuat Detail Movie:
+-Membuka Activity Detail
+-Melakukan check apakah image_poster berhasil ditampilkan
+-Melakukan check apakah title_movie_detail berhasil ditampilkan
+-Melakukan check apakah release_date berhasil ditampilkan
+-Melakukan check apakah overview_movie_detail berhasil ditampilkan
+
+2. DetailTvShowActivityTest
+Memuat Detail TvShow:
+-Membuka Activity Detail
+-Melakukan check apakah image_poster berhasil ditampilkan
+-Melakukan check apakah title_movie_detail berhasil ditampilkan
+-Melakukan check apakah release_date berhasil ditampilkan
+-Melakukan check apakah overview_movie_detail berhasil ditampilkan
+
+3. MovieFragmentTest
+Memuat Movie:
+-Melakukan pengecekan apakah Recyclerview di tampilkan atau tidak.
+-Melakukan pengecekan apakah jumlah item Recyclerview sesuai ekspektasi atau tidak.
+
+4. TvShowFragmentTest
+Memuat TvShow:
+-Melakukan pengecekan apakah Recyclerview di tampilkan atau tidak.
+-Melakukan pengecekan apakah jumlah item Recyclerview sesuai ekspektasi atau tidak.
+
+5. ActivityMovieTest
+Memuat Movie:
+-Membuka Halaman movie
+-Melakukan check apakah Recyclerview berhasil ditampilkan
+-Melakukan klik posisi movie index 0 (posisi pertama)
+-Melakukan check apakah title_movie_detail ditampilkan
+-Melakukan check apakah title_movie_detail sama dengan text yang ditentukan
+-Melakukan check apakah release_date sama dengan text yang ditentukan
+
+6. ActivityTvShowTest
+Memuat TvShow:
+-Membuka Halaman tv show
+-Melakukan check apakah Recyclerview berhasil ditampilkan
+-Melakukan klik posisi movie index 0 (posisi pertama)
+-Melakukan check apakah title_movie_detail ditampilkan
+-Melakukan check apakah title_movie_detail sama dengan text yang ditentukan
+-Melakukan check apakah release_date sama dengan text yang ditentukan
+
+		-------------UNIT TESTING---------------
+1. DetailMovieViewModelTest:
+Memuat Movie:
+-Melakukan pengecekan data movie apakah null atau tidak.
+-Melakukan pengecekan jumlah data movie  apakah sudah sesuai atau belum.
+-Menampilkan detail data dari ViewModel
+
+2. DetailTvShowViewModelTest:
+Memuat TvShow:
+-Melakukan pengecekan data tvshow apakah null atau tidak.
+-Melakukan pengecekan jumlah data tvshow apakah sudah sesuai atau belum.
+-Menampilkan detail data dari ViewModel
+
+3. MovieFavViewModelTest:
+Memuat Movie:
+-Melakukan pengecekan data movie apakah null atau tidak.
+-Melakukan pengecekan jumlah data movie  apakah sudah sesuai atau belum.
+-Menampilkan data favorite dari ViewModel
+
+
+4. MovieViewModelTest:
+Memuat Movie:
+-Melakukan pengecekan data movie apakah null atau tidak.
+-Melakukan pengecekan jumlah data movie apakah sudah sesuai atau belum.
+-Menampilkan data movie dari ViewModel
+
+5. TvShowFavViewModelTest:
+Memuat TvShow:
+-Melakukan pengecekan data tvshow apakah null atau tidak.
+-Melakukan pengecekan jumlah data tvshow apakah sudah sesuai atau belum.
+-Menampilkan data favorite dari ViewModel
+
+6. TvShowViewModelTest:
+Memuat TvShow:
+-Melakukan pengecekan data tvshow apakah null atau tidak.
+-Melakukan pengecekan jumlah data tvshow apakah sudah sesuai atau belum.
+-Menampilkan data tv show dari ViewModel

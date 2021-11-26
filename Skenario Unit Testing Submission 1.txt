@@ -1,0 +1,22 @@
+		--------UnitTesting----------
+1. MovieViewModelTest:
+Memuat Movie:
+-Melakukan pengecekan data movie apakah null atau tidak.
+-Melakukan pengecekan jumlah data movie apakah sudah sesuai atau belum.
+
+2. TvShowViewModelTest:
+Memuat TvShow:
+-Melakukan pengecekan data tvshow apakah null atau tidak.
+-Melakukan pengecekan jumlah data tvshow apakah sudah sesuai atau belum.
+
+3. DetailMovieViewModelTest:
+Memuat Movie:
+-Melakukan pengecekan data movie apakah null atau tidak.
+-Melakukan pengecekan jumlah data movie  apakah sudah sesuai atau belum.
+-Menampilkan data dari ViewModel
+
+4. DetailTVShowViewModelTest:
+Memuat TvShow:
+-Melakukan pengecekan data tvshow apakah null atau tidak.
+-Melakukan pengecekan jumlah data tvshow apakah sudah sesuai atau belum.
+-Menampilkan data dari ViewModel

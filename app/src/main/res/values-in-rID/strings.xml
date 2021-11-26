@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Android Jetpack Pro</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="tittle">Judul Film</string>
+    <string name="overview">Deskripsi Film</string>
+    <string name="exp_release_data">09 September 2019</string>
+    <string name="favorite_button">Tombol Suka</string>
+    <string name="desc_image_poster_movie">Poster Film</string>
+    <string name="settings">Pengaturan</string>
+    <string name="favorite">Kesukaan</string>
+    <string name="some_mistake">Ada yang salah</string>
+    <string name="fav">Difavoritkan</string>
+    <string name="no_fav">Tidak Favorit</string>
+    <string name="release_movie">Tanggal Rilis Film</string>
+</resources>

@@ -1,0 +1,33 @@
+              ----------INSTRUMENTAL TESTING------------
+1. MovieFragmentTest
+Memuat Movie:
+-Melakukan pengecekan apakah Recyclerview di tampilkan atau tidak.
+-Melakukan pengecekan apakah jumlah item Recyclerview sesuai ekspektasi atau tidak.
+
+2. TvShowFragmentTest
+Memuat TvShow:
+-Melakukan pengecekan apakah Recyclerview di tampilkan atau tidak.
+-Melakukan pengecekan apakah jumlah item Recyclerview sesuai ekspektasi atau tidak.
+
+		-------------UNIT TESTING---------------
+1. MovieViewModelTest:
+Memuat Movie:
+-Melakukan pengecekan data movie apakah null atau tidak.
+-Melakukan pengecekan jumlah data movie apakah sudah sesuai atau belum.
+
+2. TvShowViewModelTest:
+Memuat TvShow:
+-Melakukan pengecekan data tvshow apakah null atau tidak.
+-Melakukan pengecekan jumlah data tvshow apakah sudah sesuai atau belum.
+
+3. DetailMovieViewModelTest:
+Memuat Movie:
+-Melakukan pengecekan data movie apakah null atau tidak.
+-Melakukan pengecekan jumlah data movie  apakah sudah sesuai atau belum.
+-Menampilkan data dari ViewModel
+
+4. DetailTVShowViewModelTest:
+Memuat TvShow:
+-Melakukan pengecekan data tvshow apakah null atau tidak.
+-Melakukan pengecekan jumlah data tvshow apakah sudah sesuai atau belum.
+-Menampilkan data dari ViewModel
